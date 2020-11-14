@@ -1,0 +1,7 @@
+C:\Users\Krzysiek\Documents\GitHub\AutoUpdater\AutoUpdater\AutoUpdater\bin\Debug\AutoUpdater.exe.config
+C:\Users\Krzysiek\Documents\GitHub\AutoUpdater\AutoUpdater\AutoUpdater\bin\Debug\AutoUpdater.exe
+C:\Users\Krzysiek\Documents\GitHub\AutoUpdater\AutoUpdater\AutoUpdater\bin\Debug\AutoUpdater.pdb
+C:\Users\Krzysiek\Documents\GitHub\AutoUpdater\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.csprojAssemblyReference.cache
+C:\Users\Krzysiek\Documents\GitHub\AutoUpdater\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\Documents\GitHub\AutoUpdater\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.exe
+C:\Users\Krzysiek\Documents\GitHub\AutoUpdater\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.pdb
